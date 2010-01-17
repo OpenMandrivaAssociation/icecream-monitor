@@ -1,6 +1,6 @@
 Name: icecream-monitor
 Version: 1.0
-Release: %mkrel 5
+Release: %mkrel 6
 Summary: KDE4 GUI Monitor for icecream distributed compiled system
 License: GPL
 Url: http://en.opensuse.org/Icecream
@@ -11,7 +11,7 @@ Patch0: icemon.dif
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: kdelibs4-devel
 BuildRequires: icecream-devel
-BuildRequires: kdevplatform4
+BuildRequires: kdevplatform4-devel
 BuildRequires: kde4-macros
 Provides: icemon = %version-%release
 Provides: icecream4-monitor = %version-%release
