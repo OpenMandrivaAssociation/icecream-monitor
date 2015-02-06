@@ -1,6 +1,6 @@
 Name: icecream-monitor
 Version: 1.0
-Release: 7
+Release: 8
 Summary: KDE4 GUI Monitor for icecream distributed compiled system
 License: GPL
 Url: http://en.opensuse.org/Icecream
