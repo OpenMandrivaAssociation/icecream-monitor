@@ -3,7 +3,7 @@ Version: 1.0
 Release: 8
 Summary: KDE4 GUI Monitor for icecream distributed compiled system
 License: GPL
-Url: http://en.opensuse.org/Icecream
+Url: https://en.opensuse.org/Icecream
 Group: Graphical desktop/KDE
 # Using Suse tarball
 Source0: icemon.tar.bz2
