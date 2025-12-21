@@ -8,6 +8,7 @@ Group: Graphical desktop/KDE
 # Using Suse tarball
 Source0: icemon.tar.bz2
 Patch0: icemon.dif
+BuildRequires:	make
 BuildRequires: kdelibs4-devel
 BuildRequires: icecream-devel
 BuildRequires: kdevplatform4-devel
